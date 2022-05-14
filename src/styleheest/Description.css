@@ -1,0 +1,40 @@
+.description{
+    width: 1200px;
+    height: 370px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    box-shadow: 0 3px 13px 1px rgb(f, f, f);
+}
+.image{
+    width: 300px;
+    height: 250px;
+}
+.text{
+    
+    background-color: #1F1F1C;
+    color:aliceblue;
+    text-align: center;
+    padding: 40px;
+    font-family: sans-serif;
+    font-weight: 400;
+    line-height: 1.5rem;
+
+}
+.name{
+    font-size: 1.5rem;
+
+
+}
+.profession{
+    font-size: 1.3rem;
+    margin-top: 15px;
+    padding-bottom: 30px;
+
+}
+.description-personal{
+    margin-top: 1px;
+    text-align: left;
+
+}

@@ -1,0 +1,36 @@
+*{
+  
+    margin: 0;
+    padding: 0;
+
+}
+
+html, body{
+  font-size: 18px;
+  background-color:#191917;
+}
+
+h1{
+  color: #fff;
+  max-width: 940px;
+  font-size: 2.5em;
+  font-family: sans-serif;
+  font-weight: 700;
+  margin: 40px 0;
+}
+.App{
+  min-width: 100vh;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+/*.main{
+  min-height: 600px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content:center ;
+
+}
+**/
