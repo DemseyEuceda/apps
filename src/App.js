@@ -10,19 +10,19 @@ function App() {
         <Description
         name= 'Bad Bunny'
         profession='Cantante, actor, luchador, padre y madre luchon'
-        description='Yo soy bad benito yeye, cantante al nivel de Michael Yacson y Fredy Mercurial yeye. Me gusta cantar canciones yeye de mujeres que son carnaitas yeye y tambien presumo de ser otaco para que la jilada se identifique conmigo yeye'
+        description='Cantante mas famoso en la actualidad, debido a su forma de actual, sin importar las criticas o sin seguir las tendencias, tomando medidas arriesgadas las cuales son bien recibidas por su publico'
         image='bad-bunny.webp'
         />
                 <Description
         name= 'Ozuna'
         profession='Cantante'
-        description='yo soi el negrito ojo claro que canta bien feo en las canciones porque mi voz esta llena de auto-tune, tengo buenas canciones pero como soy baboso les digo a mis productores que jodan todo poniendo vocesilla finita que da como colera escucharla :V'
+        description='Conocido en el genero como el negrito ojitos claro, un cantante que salto a la fama debido a numerosos exitos gracias a su estilo y carisma'
         image='descargar.jpg'
         />
                 <Description
         name= 'Maluma'
         profession='Cantante'
-        description='maluma beibi que tiene cuatro beibi y me da anciedad las fanaticas poque me quieren manosiar y me lastiman. soy muy sensible los abrazos de mis fans me dan anciedad me quiero retirar de la musica porque me hacen bullying que me da mas anciedad.'
+        description='Cantante colombiano, famoso por sus letras atrevidas y pretenciosas, algo odiado por la comunidad debido a algunas muestras de arrogancia en algunos escenarios'
         image='maluma.jpeg'
         />
 
