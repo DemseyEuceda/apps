@@ -9,14 +9,14 @@ function App() {
         <h1>Cantantes Urbanos</h1>
         <Description
         name= 'Bad Bunny'
-        profession='Cantante, actor, luchador'
-        description='Cantante mas famoso en la actualidad, debido a su forma de actual, sin importar las criticas o sin seguir las tendencias, tomando medidas arriesgadas las cuales son bien recibidas por su publico'
+        profession='Cantante, actor, luchadornp'
+        description='Cantante mas famoso en la actualidad, debido a su forma de actuar sin importar las criticas o seguir las tendencias, tomando medidas arriesgadas las cuales son bien recibidas por su publico'
         image='bad-bunny.webp'
         />
                 <Description
         name= 'Ozuna'
         profession='Cantante'
-        description='Conocido en el genero como el negrito ojitos claro, un cantante que salto a la fama debido a numerosos exitos gracias a su estilo y carisma'
+        description='Conocido en el genero como "el negrito ojitos claro", un cantante que salto a la fama debido a numerosos exitos gracias a su estilo y carisma'
         image='descargar.jpg'
         />
                 <Description
