@@ -6,10 +6,10 @@ function App() {
   return (
     <div className="App">
       <div className='main'>
-        <h1>Cantantes entre comillas</h1>
+        <h1>Cantantes Urbanos</h1>
         <Description
         name= 'Bad Bunny'
-        profession='Cantante, actor, luchador, padre y madre luchon'
+        profession='Cantante, actor, luchador'
         description='Cantante mas famoso en la actualidad, debido a su forma de actual, sin importar las criticas o sin seguir las tendencias, tomando medidas arriesgadas las cuales son bien recibidas por su publico'
         image='bad-bunny.webp'
         />
